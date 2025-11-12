@@ -29,8 +29,8 @@ The application can be extended for:
 
 ## Tools & Technologies Used
 
-| Tool / Technology | Purpose |
-|--------------------|----------|
+| Technology | Purpose |
+|
 | **Flutter** | Cross-platform mobile development |
 | **Dart** | Programming language for Flutter |
 | **Firebase** | Cloud data storage and synchronization |
@@ -97,35 +97,14 @@ dependencies:
 
 ## Major Features
 
- **Firebase Sync** | Automatically syncs notes to the cloud |
- **Offline Mode (Hive)** | Access notes without an internet connection |
- **Task Categories** | Group notes and to-do items by category |
- **Text Formatting** | Supports bold and italic text |
- **Voice Notes** | Record and save spoken notes |
- **Image Notes** | Add images directly from camera or gallery |
- **Responsive UI** | Works on all device sizes |
- **Clean Architecture** | Easy to maintain and extend |
-
-
-## Folder Structure
-
-
-lib/
-├── main.dart
-├── models/
-│   └── note_model.dart
-├── services/
-│   ├── firebase_service.dart
-│   └── hive_service.dart
-├── pages/
-│   ├── home_page.dart
-│   ├── add_note_page.dart
-│   └── category_page.dart
-├── widgets/
-│   ├── note_card.dart
-│   └── custom_textfield.dart
-└── utils/
-    └── constants.dart
+ **Firebase Sync**  Automatically syncs notes to the cloud 
+ **Offline Mode (Hive)**  Access notes without an internet connection 
+ **Task Categories**  Group notes and to-do items by category 
+ **Text Formatting**  Supports bold and italic text 
+ **Voice Notes**  Record and save spoken notes 
+ **Image Notes**  Add images directly from camera or gallery 
+ **Responsive UI**  Works on all device sizes 
+ **Clean Architecture**  Easy to maintain and extend 
 
 
 ## Working Principle
