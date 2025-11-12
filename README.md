@@ -110,7 +110,7 @@ dependencies:
 ## Working Principle
 
 1. When the user creates a note, the app checks for internet availability.  
-2. the note is temporarily stored in **Hive** and later synced when online.  
+2. the note is temporarily stored in **Hive** .  
 3. The user can view, edit, delete, and categorize notes.  
 4. Voice and image notes are stored as files linked to each note record.
 
