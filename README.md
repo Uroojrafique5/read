@@ -120,9 +120,8 @@ dependencies:
 
 ## 📸 Screenshots
 
-Below are some key screens from **Awesome Notes** showing different features and UI components.
 
-### 🔐 Authentication Screens
+###  Authentication Screens
 | Register | Register (Alt) | Sign In | Google Registration |
 |-----------|----------------|----------|----------------------|
 | ![Register](assets/Screenshots/Register.png) | ![Register2](assets/Screenshots/Register2.png) | ![Sign in](assets/Screenshots/Sign_in.png) | ![Reg with Google](assets/Screenshots/Reg_with_google.png) |
@@ -133,26 +132,24 @@ Below are some key screens from **Awesome Notes** showing different features and
 
 ---
 
-### 🏠 Main Screens
+###  Main Screens
 | Main Screen | Saved Notes | Sort Notes | Tag View |
 |--------------|-------------|-------------|-----------|
 | ![Main](assets/Screenshots/main_screen.png) | ![Saved Notes](assets/Screenshots/saved_notes.png) | ![Sort Notes](assets/Screenshots/sort_notes.png) | ![Tag](assets/Screenshots/tag.png) |
 
 ---
 
-### 📝 Note Management
+###  Note Management
 | New Note 1 | New Note 2 | New Note 3 | Update Note |
 |-------------|-------------|-------------|--------------|
 | ![New Note 1](assets/Screenshots/new_notes.png) | ![New Note 2](assets/Screenshots/new_notes_2.png) | ![New Note 3](assets/Screenshots/new_notes_3.png) | ![Update Note](assets/Screenshots/update_notes.png) |
 
 ---
 
-### 🖼️ Image Input
+###  Image Input
 | Image Input |
 |--------------|
 | ![Image Input](assets/Screenshots/image_input.png) |
-
-
 
 
 
