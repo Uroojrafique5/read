@@ -125,34 +125,33 @@ Below are some key screens from **Awesome Notes** showing different features and
 ### 🔐 Authentication Screens
 | Register | Register (Alt) | Sign In | Google Registration |
 |-----------|----------------|----------|----------------------|
-| ![Register](assets/Screenshots/Register.png) | ![Register2](assets/Screenshots/Register2.png) | ![Sign in](assets/Screenshots/Sign in.png) | ![Reg with Google](assets/Screenshots/Reg with google.png) |
+| ![Register](assets/Screenshots/Register.png) | ![Register2](assets/Screenshots/Register2.png) | ![Sign in](assets/Screenshots/Sign_in.png) | ![Reg with Google](assets/Screenshots/Reg_with_google.png) |
 
 | Google Registration (Alt) | Firebase Console |
 |----------------------------|------------------|
-| ![Reg with google 2](assets/Screenshots/Reg with google 2.png) | ![Firebase console](assets/Screenshots/firebase console.png) |
+| ![Reg with google 2](assets/Screenshots/Reg_with_google_2.png) | ![Firebase console](assets/Screenshots/firebase_console.png) |
 
 ---
 
 ### 🏠 Main Screens
 | Main Screen | Saved Notes | Sort Notes | Tag View |
 |--------------|-------------|-------------|-----------|
-| ![Main](assets/Screenshots/main screen.png) | ![Saved Notes](assets/Screenshots/saved notes.png) | ![Sort Notes](assets/Screenshots/sort notes.png) | ![Tag](assets/Screenshots/tag.png) |
+| ![Main](assets/Screenshots/main_screen.png) | ![Saved Notes](assets/Screenshots/saved_notes.png) | ![Sort Notes](assets/Screenshots/sort_notes.png) | ![Tag](assets/Screenshots/tag.png) |
 
 ---
 
 ### 📝 Note Management
 | New Note 1 | New Note 2 | New Note 3 | Update Note |
 |-------------|-------------|-------------|--------------|
-| ![New Note 1](assets/Screenshots/new notes.png) | ![New Note 2](assets/Screenshots/new notes 2.png) | ![New Note 3](assets/Screenshots/new notes 3.png) | ![Update Note](assets/Screenshots/update notes.png) |
+| ![New Note 1](assets/Screenshots/new_notes.png) | ![New Note 2](assets/Screenshots/new_notes_2.png) | ![New Note 3](assets/Screenshots/new_notes_3.png) | ![Update Note](assets/Screenshots/update_notes.png) |
 
 ---
 
 ### 🖼️ Image Input
 | Image Input |
 |--------------|
-| ![Image Input](assets/Screenshots/image input.png) |
+| ![Image Input](assets/Screenshots/image_input.png) |
 
-> All screenshots are taken from the latest build (resolution 368×191) of the **Awesome Notes** Flutter application.
 
 
 
