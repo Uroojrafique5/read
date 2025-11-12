@@ -29,16 +29,16 @@ The application can be extended for:
 
 ## Tools & Technologies Used
 
-| Technology | Purpose |
-|
-| **Flutter** | Cross-platform mobile development |
-| **Dart** | Programming language for Flutter |
-| **Firebase** | Cloud data storage and synchronization |
-| **Hive** | Local offline data storage |
-| **Provider** | State management |
-| **Speech-to-Text** | For recording voice notes |
-| **Image Picker** | For capturing and selecting images |
-| **Android Studio / VS Code** | Development environment |
+Technology | Purpose 
+
+1. **Flutter** : Cross-platform mobile development 
+2. **Dart** : Programming language for Flutter 
+3. **Firebase** : Cloud data storage and synchronization 
+4. **Hive** : Local offline data storage
+5. **Provider** : State management
+6. **Speech-to-Text** : For recording voice notes 
+7. **Image Picker** : For capturing and selecting images 
+8. **Android Studio / VS Code** : Development environment
 
 
 ## System Requirements
@@ -83,28 +83,28 @@ The project uses the following main dependencies:
 
 yaml
 dependencies:
-  flutter:
-    sdk: flutter
-  firebase_core: ^3.0.0
-  cloud_firestore: ^5.0.0
-  hive: ^2.2.3
-  hive_flutter: ^1.1.0
-  provider: ^6.0.5
-  image_picker: ^1.0.0
-  speech_to_text: ^6.1.0
-  flutter_tts: ^3.6.3
-  path_provider: ^2.1.2
+  - flutter:
+     - sdk: flutter
+  - firebase_core: ^3.0.0
+  - cloud_firestore: ^5.0.0
+  - hive: ^2.2.3
+  - hive_flutter: ^1.1.0
+  - provider: ^6.0.5
+  - image_picker: ^1.0.0
+  - speech_to_text: ^6.1.0
+  - flutter_tts: ^3.6.3
+  - path_provider: ^2.1.2
 
 ## Major Features
 
- **Firebase Sync**  Automatically syncs notes to the cloud 
- **Offline Mode (Hive)**  Access notes without an internet connection 
- **Task Categories**  Group notes and to-do items by category 
- **Text Formatting**  Supports bold and italic text 
- **Voice Notes**  Record and save spoken notes 
- **Image Notes**  Add images directly from camera or gallery 
- **Responsive UI**  Works on all device sizes 
- **Clean Architecture**  Easy to maintain and extend 
+ - **Firebase Sync**  Automatically syncs notes to the cloud 
+ - **Offline Mode (Hive)**  Access notes without an internet connection 
+ - **Task Categories**  Group notes and to-do items by category 
+ - **Text Formatting**  Supports bold and italic text 
+ - **Voice Notes**  Record and save spoken notes 
+ - **Image Notes**  Add images directly from camera or gallery 
+ - **Responsive UI**  Works on all device sizes 
+ - **Clean Architecture**  Easy to maintain and extend 
 
 
 ## Working Principle
