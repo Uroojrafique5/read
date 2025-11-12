@@ -109,10 +109,17 @@ dependencies:
 
 ## Working Principle
 
-1. When the user creates a note, the app checks for internet availability.  
-2. the note is temporarily stored in **Hive** .  
-3. The user can view, edit, delete, and categorize notes.  
-4. Voice and image notes are stored as files linked to each note record.
+1.**User Registration & Access:**
+Once a user registers with an email and password, they can start creating and managing their personal notes.
+
+2.**Local Storage with Hive:**
+All notes are securely and efficiently stored locally using the Hive database, ensuring fast performance even without internet connectivity.
+
+3.**Complete Note Management:**
+Users can view, edit, delete, and organize their notes into different categories for better productivity and structure.
+
+4.**Voice & Image Support:**
+The app supports rich note types — users can create voice and image notes, which are saved as linked files within each note entry.
 
 
 ---
