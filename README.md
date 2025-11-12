@@ -122,7 +122,7 @@ dependencies:
 
 | Home Screen | Add Note | Categories |
 |--------------|-----------|-------------|
-| ![Registeration page](assets/screenshots/Register.png) | ![Add Note](assets/screenshots/add_note.png) | ![Categories](assets/screenshots/categories.png) |
+| ![Registration page](assets/Screenshots/Register.png) | ![Add Note](assets/screenshots/add_note.png) | ![Categories](assets/screenshots/categories.png) |
 
 > These screenshots show the main interface of **Awesome Notes**, including task categories, note editor, and image/voice note features.
 
