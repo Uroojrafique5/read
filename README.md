@@ -97,7 +97,7 @@ dependencies:
 
 ## Major Features
 
- - **Firebase Sync**  Automatically syncs notes to the cloud 
+- **Firebase Integration** – Securely stores user signup and login credentials using Firebase Authentication.
  - **Offline Mode (Hive)**  Access notes without an internet connection 
  - **Task Categories**  Group notes and to-do items by category 
  - **Text Formatting**  Supports bold and italic text 
@@ -110,10 +110,9 @@ dependencies:
 ## Working Principle
 
 1. When the user creates a note, the app checks for internet availability.  
-2. If **online**, the note is stored both in **Firebase** and **Hive**.  
-3. If **offline**, the note is temporarily stored in **Hive** and later synced when online.  
-4. The user can view, edit, delete, and categorize notes.  
-5. Voice and image notes are stored as files linked to each note record.
+2. the note is temporarily stored in **Hive** and later synced when online.  
+3. The user can view, edit, delete, and categorize notes.  
+4. Voice and image notes are stored as files linked to each note record.
 
 
 ---
